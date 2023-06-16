@@ -1,0 +1,27 @@
+phrase: all tautologies are tautologies 
+wiki:'all', 'Ġt', 'aut', 'alog', 'ies', 'Ġare', 'Ġt', 'aut', 'ologies'
+sst: 'all', 'Ġtaut', 'al', 'og', 'ies', 'Ġare', 'Ġtaut', 'ologies'
+
+phrase: If you experience any problems with this product at any time 
+wiki: 'I', 'f', 'Ġyou', 'Ġexperience', 'Ġany', 'Ġproblems', 'Ġwith', 'Ġproduct', 'Ġat', 'Ġany', 'Ġtime'
+sst: 'f', 'Ġyou', 'Ġexperience', 'Ġany', 'Ġproblems', 'Ġwith', 'Ġproduct', 'Ġat', 'Ġany', 'Ġtime'
+
+
+phrase: As this TFI Leap Cart is only valid for persons who are up to 23 years old
+wiki: 'A', 's', 'Ġthis', 'ĠT', 'FI', 'ĠLe', 'ap', 'ĠCart', 'Ġis', 'Ġonly', 'Ġvalid', 'Ġfor', 'Ġpersons', 'Ġwho', 'Ġare', 'Ġup', 'Ġto', 'Ġ23', 'Ġyears', 'Ġold'
+sst: 's', 'Ġthis', 'Ġ', 'Ġe', 'ap', 'Ġart', 'Ġis', 'Ġonly', 'Ġvalid', 'Ġfor', 'Ġperson', 's', 'Ġwho', 'Ġare', 'Ġup', 'Ġto', 'Ġ2', '3', 'Ġyears', 'Ġold'
+
+
+phrase: soft white underbelly interview and portrait of October, the daughter of drug addicted parents
+sst: 'soft', 'Ġwhite', 'Ġunderbelly', 'Ġinterview', 'Ġand', 'Ġportrait', 'Ġof', 'Ġc', 'to', 'ber', ',', 'Ġthe', 'Ġdaughter', 'Ġof', 'Ġdrug', 'Ġaddict', 'ed', 'Ġparents'
+wiki: 'soft', 'Ġwhite', 'Ġunder', 'bel', 'ly', 'Ġinterview', 'Ġand', 'Ġportrait', 'Ġof', 'ĠOctober', ',', 'Ġthe', 'Ġdaughter', 'Ġof', 'Ġdrug', 'Ġadd', 'icted', 'Ġparents'
+comment: interesting how the different tokenizers split addicted
+
+
+phrase: my parents partied a lot and i didn't think anything of it
+sst: 'my', 'Ġparents', 'Ġpart', 'ied', 'Ġa', 'Ġlot', 'Ġand', 'Ġi', 'Ġdid', 'n', "'t", 'Ġthink', 'Ġanything', 'Ġof', 'Ġit'
+wiki: 'my', 'Ġparents', 'Ġpart', 'ied', 'Ġa', 'Ġlot', 'Ġand', 'Ġi', 'Ġdidn', "'", 't', 'Ġthink', 'Ġanything', 'Ġof', 'Ġit'
+
+phrase: a cigaratte with flocke, waiting for the bus in the drizzle
+sst: 'a', 'Ġc', 'ig', 'arat', 'te', 'Ġwith', 'Ġfl', 'ock', 'e', ',', 'Ġwaiting', 'Ġfor', 'Ġthe', 'Ġbus', 'Ġin', 'Ġthe', 'Ġdri', 'zz', 'le'
+wiki: 'a', 'Ġcig', 'arat', 'te', 'Ġwith', 'Ġfl', 'oc', 'ke', ',', 'Ġwaiting', 'Ġfor', 'Ġthe', 'Ġbus', 'Ġin', 'Ġthe', 'Ġd', 'ri', 'zzle'
