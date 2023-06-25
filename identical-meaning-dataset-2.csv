@@ -1,0 +1,494 @@
+sentence1,sentence2,label
+Children enjoy playing in the park,Children have fun playing in the park,1
+He is confident,He is unsure,0
+He is confident,He is unsure,0
+He is a skilled pianist,He is an accomplished pianist,1
+He built a sandcastle on the beach,He constructed a sandcastle at the seaside,1
+He built a sandcastle on the beach,He constructed a sandcastle at the seaside,1
+Chocolate is my favorite dessert,Chocolate is my preferred dessert,1
+He is confident,He is unsure,0
+He is energetic,He is lethargic,0
+He is energetic,He is lethargic,0
+He is energetic,He is lethargic,0
+He is happy,He is sad,0
+He is happy,He is angry,0
+He is happy,He is angry,0
+He is happy,He is angry,0
+He is strong,He is weak,0
+He is tall,He is short,0
+He is tall,He is average height,0
+He is tall,He is average height,0
+He is tall,He is average height,0
+He lives in a big house,He lives in a large house,1
+He plays the guitar,She plays the piano,0
+He ran swiftly,He walked slowly,0
+He scored a goal,He missed the goal,0
+He wears a blue shirt,He wears a red shirt,0
+He works as a doctor,He is employed as a physician,1
+Her smile brightens up the room,Her smile lights up the room,1
+His performance was outstanding,He delivered an exceptional performance,1
+I enjoy hiking in the mountains,I enjoy swimming in the ocean,0
+I enjoy playing tennis,I love playing tennis,1
+I enjoy reading books,I enjoy watching movies,0
+I feel sleepy after a long day,I feel tired after a long day,1
+I feel sleepy after a long day,I feel tired after a long day,1
+I had a delicious meal at the restaurant,I had a tasty meal at the restaurant,1
+I like to drink beer,I like to drink wine,0
+I like to swim in the sea,I like to swim in the ocean,1
+I love eating ice cream,Eating ice cream is something I adore,1
+I prefer tea over coffee,I prefer coffee over tea,0
+I want to go on vacation,I desire to go on a holiday,1
+It's a difficult life in this industry,It's a difficult life in this business,1
+Let's meet at the park,Let's meet at the beach,0
+She cooked a delicious meal,She burned the meal,0
+She gave him a gift,He gave her a gift,0
+She is charismatic,She is dull,0
+She is charismatic,She is dull,0
+She is charismatic,She is dull,0
+She is dancing,She is sitting,0
+She is dancing,She is crying,0
+She is dancing,She is crying,0
+She is dancing,She is crying,0
+She is intelligent,She is ignorant,0
+She is intelligent,She is ignorant,0
+She is intelligent,She is ignorant,0
+She is smart,She is dumb,0
+She is talented,She is untalented,0
+She is talented,She is untalented,0
+She is talented,She is untalented,0
+She is talented,She is untalented,0
+She ran a marathon,She completed a marathon,1
+She sings beautifully,She has a beautiful singing voice,1
+She was sitting on a rock,She was sitting on a stone,1
+The actor performed exceptionally well,The actor delivered an outstanding performance,1
+The actor performed exceptionally well,The actor delivered an outstanding performance,1
+The actor portrayed the character convincingly,The actor depicted the character convincingly,1
+The airplane is flying,The airplane is grounded,0
+The airplane took off from the runway,The airplane departed from the airstrip,1
+The airplane took off from the runway,The airplane departed from the airstrip,1
+The alarm clock woke me up,I woke up to the sound of the alarm clock,1
+The alarm clock woke me up,I woke up to the sound of the alarm clock,1
+The athlete broke the world record,The athlete set a new world record,1
+The athlete broke the world record,The athlete set a new world record,1
+The baby cooed and giggled happily,The baby made happy cooing and giggling sounds,1
+The baby crawled on the floor,The baby moved on all fours on the floor,1
+The baby crawled on the floor,The baby moved on all fours on the floor,1
+The baby cried loudly,The baby wailed loudly,1
+The baby giggled with joy,The baby laughed happily,1
+The baby giggled with joy,The baby laughed happily,1
+The baby is laughing,The baby is crying,0
+The baby is sleeping peacefully,The baby is peacefully asleep,1
+The baby peacefully slept through the night,The baby slept soundly through the night,1
+The baby smiled at her mother,The baby beamed at her mother,1
+The baby smiled at her mother,The baby beamed at her mother,1
+The beach is crowded,The beach is empty,0
+The beach is crowded,The beach is deserted,0
+The beach is crowded,The beach is deserted,0
+The beach is crowded,The beach is deserted,0
+The beach is picturesque,The beach is unremarkable,0
+The beach is picturesque,The beach is unremarkable,0
+The beach is picturesque,The beach is unremarkable,0
+The beach is sandy,The beach is rocky,0
+The billionaires went to the bottom of the sea,The billionaires came back from the bottom of the sea,0
+The bird built a nest in the tree,The bird constructed a nest in the tree,1
+The bird flew gracefully through the sky,The bird soared elegantly through the sky,1
+The bird flew gracefully through the sky,The bird soared elegantly through the sky,1
+The bird is chirping,The bird is silent,0
+The bird is chirping,The bird is silent,0
+The bird is chirping,The bird is silent,0
+The bird is flying,The bird is grounded,0
+The bird is singing,The bird is silent,0
+The bird is singing,The bird is screeching,0
+The bird is singing,The bird is silent,0
+The bird is singing,The bird is silent,0
+The bird is singing,The bird is silent,0
+The bird is soaring,The bird is grounded,0
+The bird is soaring,The bird is grounded,0
+The bird is soaring,The bird is grounded,0
+The bird sang a melodious tune,The bird chirped a beautiful melody,1
+The bird sang a melodious tune,The bird chirped a beautiful melody,1
+The birds chirped in the trees,The birds sang from the branches,1
+The birds chirped in the trees,The birds sang from the branches,1
+The book is captivating,The book is dull,0
+The book is captivating,The book is dull,0
+The book is captivating,The book is dull,0
+The book is engaging,The book is unengaging,0
+The book is engaging,The book is unengaging,0
+The book is engaging,The book is unengaging,0
+The book is interesting,The book is boring,0
+The book is interesting,The book is uninteresting,0
+The book is long,The book is short,0
+The book is on the table,The book is on the shelf,0
+The building is tall and majestic,The building is grand and impressive,1
+The butterfly fluttered its wings delicately,The butterfly flapped its wings delicately,1
+The butterfly fluttered its wings,The butterfly flapped its wings,1
+The cake is moist,The cake is dry,0
+The cake is moist,The cake is dry,0
+The cake is moist,The cake is dry,0
+The cake is sweet,The cake is bitter,0
+The cake smelled delicious,The cake had a delightful aroma,1
+The cake smelled delicious,The cake had a delightful aroma,1
+The cake tasted delicious,The cake was delicious,1
+The cake tasted delicious,The cake was delicious,1
+The car accelerated,The car decelerated,0
+The car accelerated quickly,The car sped up rapidly,1
+The car accelerated quickly,The car sped up rapidly,1
+The car engine is running smoothly,The car engine is running flawlessly,1
+The car engine purred smoothly,The car engine ran smoothly,1
+The car engine roared to life,The car engine came alive with a roar,1
+The car is big,The car is small,0
+The car is fast,The car is slow,0
+The car is fast,The car is stationary,0
+The car is fast,The car is stationary,0
+The car is fast,The car is stationary,0
+The car is red,The car is blue,0
+The car is red,The car is black,0
+The car is red,The car is black,0
+The car is red,The car is black,0
+The car is sleek,The car is bulky,0
+The car is sleek,The car is boxy,0
+The car is sleek,The car is boxy,0
+The car is sleek,The car is boxy,0
+The car is spacious,The car is cramped,0
+The car is spacious,The car is cramped,0
+The car is spacious,The car is cramped,0
+The car is stylish,The car is outdated,0
+The car is stylish,The car is outdated,0
+The car is stylish,The car is outdated,0
+The car screeched to a halt,The car came to a screeching stop,1
+The car skidded on the icy road,The car slid on the icy road,1
+The car stopped at the red light,The car halted at the traffic signal,1
+The cat is affectionate,The cat is aloof,0
+The cat is affectionate,The cat is aloof,0
+The cat is affectionate,The cat is aloof,0
+The cat is agile,The cat is clumsy,0
+The cat is agile,The cat is clumsy,0
+The cat is agile,The cat is clumsy,0
+The cat is big,The cat is small,0
+The cat is on the mat,"On the mat, there is a cat",1
+The cat is playful,The cat is lazy,0
+The cat is playful,The cat is lazy,0
+The cat is playful,The cat is lazy,0
+The cat is playful,The cat is aggressive,0
+The cat is sleeping,The cat is awake,0
+The cat purred contentedly,The cat was purring with contentment,1
+The cat purred contentedly,The cat was purring with contentment,1
+The chef prepared a delicious meal,The chef cooked a tasty meal,1
+The chef prepared a delicious meal,The chef cooked a tasty meal,1
+The chef seasoned the dish with spices,The chef flavored the dish with spices,1
+The child blew bubbles,The child created bubbles,1
+The child blew bubbles,The child created bubbles,1
+The child built a sandcastle at the beach,The child constructed a sandcastle by the seaside,1
+The child built a sandcastle at the beach,The child constructed a sandcastle by the seaside,1
+The child drew a picture with crayons,The child colored a picture with crayons,1
+The child is giggling,The child is frowning,0
+The child is giggling,The child is frowning,0
+The child is giggling,The child is frowning,0
+The child is happy,The child is sad,0
+The child is playing,The child is sleeping,0
+The child is playing,The child is studying,0
+The child is playing,The child is studying,0
+The child is playing,The child is studying,0
+The child jumped with joy,The child leaped with excitement,1
+The child laughed uncontrollably,The child giggled uncontrollably,1
+The child skipped along the sidewalk,The child hopped along the sidewalk,1
+The child went up the slide,The child went down the slide,0
+The children laughed and played in the park,The children had fun and played in the park,1
+The city is bustling,The city is desolate,0
+The city is bustling,The city is desolate,0
+The city is bustling,The city is desolate,0
+The city is lively,The city is lifeless,0
+The city is lively,The city is lifeless,0
+The city is lively,The city is lifeless,0
+The city is noisy,The city is quiet,0
+The city is vibrant,The city is dull,0
+The clock chimed midnight,Midnight was announced by the chiming clock,1
+The clock struck midnight,Midnight was announced by the clock,1
+The clock struck twelve o'clock,The clock chimed twelve times,1
+The clock struck twelve o'clock,The clock chimed twelve times,1
+The coffee aroma filled the room,The room was filled with the aroma of coffee,1
+The coffee is aromatic,The coffee is odorless,0
+The coffee is aromatic,The coffee is flavorless,0
+The coffee is aromatic,The coffee is odorless,0
+The coffee is aromatic,The coffee is flavorless,0
+The coffee is aromatic,The coffee is odorless,0
+The coffee is aromatic,The coffee is flavorless,0
+The coffee is aromatic,The coffee is odorless,0
+The coffee is hot,The coffee is cold,0
+The coffee is hot,The coffee is steaming,1
+The coffee is invigorating,The coffee is decaffeinated,0
+The coffee is invigorating,The coffee is decaffeinated,0
+The coffee is invigorating,The coffee is decaffeinated,0
+The coffee is strong,The coffee is weak,0
+The computer crashed unexpectedly,The computer unexpectedly shut down,1
+The computer crashed unexpectedly,The computer unexpectedly shut down,1
+The concert was a big hit,The concert was a major success,1
+The concert was a big hit,The concert was a major success,1
+The dancer gracefully moved across the stage,The dancer elegantly glided across the stage,1
+The dancer twirled gracefully on stage,The dancer spun gracefully on stage,1
+The dog barks at strangers,The dog growls at strangers,1
+The dog chased the cat,The cat chased the dog,0
+The dog is barking happily,The dog is barking angrily,0
+The dog is friendly,The dog is aggressive,0
+The dog is playful,The dog is aggressive,0
+The dog is playful,The dog is aggressive,0
+The dog is playful,The dog is aggressive,0
+The dog wagged its tail happily,The dog's tail was wagging with joy,1
+The dog wagged its tail happily,The dog's tail was wagging with joy,1
+The dog wagged its tail in excitement,The dog's tail wagged with enthusiasm,1
+The dog wagged its tail with excitement,The dog's tail wagged with enthusiasm,1
+The door is open,The door is closed,0
+The door is open,The door is locked,0
+The door is open,The door is locked,0
+The door is open,The door is locked,0
+The dress is beautiful,The dress is ugly,0
+The dress is elegant,The dress is tacky,0
+The dress is elegant,The dress is tacky,0
+The dress is elegant,The dress is tacky,0
+The dress is expensive,The dress is cheap,0
+The dress is fashionable,The dress is outdated,0
+The dress is fashionable,The dress is outdated,0
+The dress is fashionable,The dress is outdated,0
+The dress is fashionable,The dress is outdated,0
+The dress is stylish,The dress is frumpy,0
+The dress is stylish,The dress is frumpy,0
+The dress is stylish,The dress is frumpy,0
+The fire crackled and glowed,The fire made crackling sounds and emitted a warm glow,1
+The fire crackled and popped,The fire made crackling and popping sounds,1
+The fire crackled and popped,The fire made crackling and popping sounds,1
+The fireflies flickered in the dark,The fireflies twinkled in the dark,1
+The flower is blooming,The flower is wilting,0
+The flowers bloom in spring,The flowers blossom in spring,1
+The flowers bloomed in vibrant colors,The flowers blossomed in vibrant hues,1
+The flowers swayed in the breeze,The flowers danced in the breeze,1
+The flowers swayed in the breeze,The flowers danced in the breeze,0
+The food is delectable,The food is unappetizing,0
+The food is delicious,The food is tasteless,0
+The food is delicious,The food is unappetizing,0
+The food is delicious,The food is unappetizing,0
+The food is flavorful,The food is tasteless,0
+The food is flavorful,The food is tasteless,0
+The food is flavorful,The food is tasteless,0
+The food is savory,The food is bland,0
+The food is savory,The food is bland,0
+The food is savory,The food is bland,0
+The food is spicy,The food is bland,0
+The friends had a great time at the party,The friends enjoyed themselves at the party,1
+The friends had a great time at the party,The friends enjoyed themselves at the party,1
+The garden is blooming,The garden is withering,0
+The garden is flourishing,The garden is dying,0
+The garden is flourishing,The garden is dying,0
+The garden is flourishing,The garden is dying,0
+The garden is lush,The garden is barren,0
+The garden is lush,The garden is barren,0
+The garden is lush,The garden is barren,0
+The garden is well-maintained,The garden is neglected,0
+The horse galloped across the field,The horse raced across the field,1
+The ice cream is cold,The ice cream is hot,0
+The ice cream is cold,The ice cream is melted,0
+The ice cream is cold,The ice cream is melted,0
+The ice cream is cold,The ice cream is melted,0
+The ice cream is creamy,The ice cream is icy,0
+The ice cream is creamy,The ice cream is icy,0
+The ice cream is creamy,The ice cream is icy,0
+The ice cream is delicious,The ice cream is disgusting,0
+The job is demanding,The job is easy-going,0
+The job is demanding,The job is easy-going,0
+The job is demanding,The job is easy-going,0
+The job is easy,The job is difficult,0
+The job is fulfilling,The job is boring,0
+The job is rewarding,The job is thankless,0
+The job is rewarding,The job is thankless,0
+The job is rewarding,The job is thankless,0
+The laptop is efficient,The laptop is slow,0
+The laptop is efficient,The laptop is slow,0
+The laptop is efficient,The laptop is slow,0
+The laptop is modern,The laptop is outdated,0
+The laptop is modern,The laptop is outdated,0
+The laptop is modern,The laptop is outdated,0
+The laptop is new,The laptop is old,0
+The laptop is powerful,The laptop is weak,0
+The laptop is powerful,The laptop is weak,0
+The laptop is powerful,The laptop is weak,0
+The laptop is working,The laptop is broken,0
+The leaves changed color in the autumn,The leaves turned color in the fall,1
+The leaves changed color in the autumn,The leaves turned color in the fall,1
+The leaves rustled in the wind,The leaves made rustling sounds in the wind,1
+The leaves rustled in the wind,The leaves made rustling sounds in the wind,1
+The magician performed amazing tricks,The magician executed astonishing tricks,1
+The magician performed amazing tricks,The magician executed astonishing tricks,1
+The man passed the test,The man failed the test,0
+The man sat in the car,The man sat in the automobile,1
+The moon glowed brightly in the night sky,The moon shone brightly in the night sky,1
+The moon glowed brightly in the night sky,The moon shone brightly in the night sky,1
+The moonlight illuminated the path,The moonlight lit up the path,1
+The mountain is breathtaking,The mountain is unremarkable,0
+The mountain is breathtaking,The mountain is mundane,0
+The mountain is breathtaking,The mountain is unremarkable,0
+The mountain is breathtaking,The mountain is mundane,0
+The mountain is breathtaking,The mountain is unremarkable,0
+The mountain is breathtaking,The mountain is mundane,0
+The mountain is majestic,The mountain is flat,0
+The mountain is majestic,The mountain is ordinary,0
+The mountain is majestic,The mountain is ordinary,0
+The mountain is majestic,The mountain is ordinary,0
+The mountain is steep,The mountain is flat,0
+The mountain peak is covered in snow,The mountain top is snow-capped,1
+The mountain peak was covered in a blanket of snow,The mountain top was blanketed with snow,1
+The movie is captivating,The movie is dull,0
+The movie is captivating,The movie is forgettable,0
+The movie is captivating,The movie is forgettable,0
+The movie is captivating,The movie is forgettable,0
+The movie is entertaining,The movie is tedious,0
+The movie is entertaining,The movie is tedious,0
+The movie is entertaining,The movie is tedious,0
+The movie is entertaining,The movie is tedious,0
+The movie is thrilling,The movie is boring,0
+The movie is thrilling,The movie is uneventful,0
+The movie is thrilling,The movie is uneventful,0
+The movie is thrilling,The movie is uneventful,0
+The movie was entertaining,The movie was enjoyable,1
+The music is loud,The music is soft,0
+The music is melodic,The music is discordant,0
+The music is soothing,The music is annoying,0
+The music is soothing,The music is grating,0
+The music is soothing,The music is grating,0
+The music is soothing,The music is grating,0
+The music is uplifting,The music is depressing,0
+The music is uplifting,The music is depressing,0
+The music is uplifting,The music is depressing,0
+The painting is colorful,The painting is monochrome,0
+The painting is vibrant,The painting is dull,0
+The painting is vibrant,The painting is dull,0
+The painting is vibrant,The painting is dull,0
+The party was a great success,The party was a complete failure,0
+The phone is ringing,The phone is silent,0
+The phone is ringing,The phone is dead,0
+The phone is ringing,The phone is dead,0
+The phone is ringing,The phone is dead,0
+The picture is beautiful,The picture is ugly,0
+The picture is clear,The picture is blurry,0
+The picture is clear,The picture is fuzzy,0
+The picture is clear,The picture is fuzzy,0
+The picture is clear,The picture is fuzzy,0
+The picture is high-quality,The picture is pixelated,0
+The picture is high-quality,The picture is pixelated,0
+The picture is high-quality,The picture is pixelated,0
+The plot was impossible to decipher,The plot was simple and comprehensible,0
+The rain is falling,The rain has stopped,0
+The rain is falling,The rain is drizzling,0
+The rain is falling,The rain is drizzling,0
+The rain is falling,The rain is drizzling,0
+The rain showered the flowers,The rain watered the flowers,1
+The rain showered the flowers,The rain watered the flowers,1
+The rain soaked the ground,The rain drenched the ground,1
+The rain soaked the ground,The rain drenched the ground,1
+The rain stopped suddenly,The rain came to a sudden halt,1
+The rain tapped on the windowpane,The rain drummed on the windowpane,1
+The rain washed away the dirt,The rain cleansed away the dirt,1
+The raindrops fell gently from the sky,The raindrops descended softly from the sky,1
+The river flowed peacefully,The river ran calmly,1
+The river flowed peacefully,The river ran calmly,1
+The river is calm,The river is turbulent,0
+The river is calm,The river is turbulent,0
+The river is calm,The river is turbulent,0
+The river is calm,The river is turbulent,0
+The river is deep,The river is shallow,0
+The river is flowing,The river is stagnant,0
+The river is serene,The river is tumultuous,0
+The river is serene,The river is tumultuous,0
+The river is serene,The river is tumultuous,0
+The river is wide,The river is narrow,0
+The river is wide,The river is narrow,0
+The river is wide,The river is narrow,0
+The river meandered through the valley,The river wound through the valley,1
+The road is busy,The road is quiet,0
+The road is busy,The road is empty,0
+The road is busy,The road is empty,0
+The road is busy,The road is empty,0
+The road is long,The road is short,0
+The road is smooth,The road is bumpy,0
+The road is smooth,The road is bumpy,0
+The road is smooth,The road is bumpy,0
+The road stretched endlessly before us,The road extended infinitely before us,1
+The runner crossed the finish line,The runner reached the end point,1
+The runner crossed the finish line,The runner reached the end point,1
+The runner sprinted towards the finish line,The runner dashed towards the finish line,1
+The sky is blue,The sky is gray,0
+The sky is clear,The sky is cloudy,0
+The sky is clear,The sky is hazy,0
+The sky is clear,The sky is hazy,0
+The sky is clear,The sky is hazy,0
+The sky is sunny,The sky is stormy,0
+The sky is sunny,The sky is stormy,0
+The sky is sunny,The sky is stormy,0
+The spider spun a web,The spider created a web,1
+The spider spun a web,The spider created a web,1
+The squirrel scurried up the tree,The squirrel climbed up the tree,1
+The stars twinkle in the night sky,The stars sparkle in the night sky,1
+The stars twinkle in the night sky,The stars sparkle in the night sky,1
+The stars twinkled like diamonds in the sky,The stars sparkled like diamonds in the sky,1
+The storm caused damage to the houses,The storm inflicted destruction on the houses,1
+The storm caused damage to the houses,The storm inflicted destruction on the houses,1
+The students listened attentively to the teacher,The students paid close attention to the teacher,1
+The sun cast long shadows in the evening,The sun created elongated shadows in the evening,1
+The sun cast long shadows in the evening,The sun created elongated shadows in the evening,1
+The sun is hot,The sun is cold,0
+The sun is rising,The sun is setting,0
+The sun is scorching,The sun is freezing,0
+The sun is scorching,The sun is freezing,0
+The sun is scorching,The sun is freezing,0
+The sun is shining,The sun is hiding,0
+The sun is shining,The sun is hiding,0
+The sun is shining,The sun is hiding,0
+The sun is shining brightly,The moon is shining brightly,0
+The sun peeked through the clouds,The sun appeared from behind the clouds,1
+The sun rises in the east,The moon rises in the east,0
+The sun set below the horizon,The sun dipped below the horizon,1
+The sun sets in the evening,The sun goes down in the evening,1
+The sun warmed my skin,The sun heated up my skin,1
+The sun warmed my skin,The sun heated up my skin,1
+The sunflower followed the sun's path,The sunflower traced the sun's trajectory,1
+The sunflower turned towards the sun,The sunflower faced the direction of the sun,1
+The sunflower turned towards the sun,The sunflower faced the direction of the sun,1
+The sunset painted the sky with vibrant colors,The sunset colored the sky with vivid hues,1
+The sunset painted the sky with vibrant colors,The sunset colored the sky with vivid hues,1
+The teacher explained the concept clearly,The teacher elucidated the concept,1
+The teacher explained the concept clearly,The teacher elucidated the concept,1
+The teacher wrote on the whiteboard,The teacher scribbled on the whiteboard,1
+The team celebrated their victory,The team rejoiced in their triumph,1
+The team celebrated their victory,The team rejoiced in their triumph,1
+The team won the championship,The team emerged as champions,1
+The team won the championship,The team emerged as champions,1
+The team worked together to solve the problem,The team collaborated to solve the problem,1
+The train arrived late,The train arrived early,0
+The train departed from the station,The train left the station,1
+The train departed from the station,The train left the station,1
+The tree branches swayed in the gentle breeze,The tree branches moved in the light breeze,1
+The tree branches swayed in the wind,The tree branches moved back and forth in the wind,1
+The tree is green,The tree is brown,0
+The tree is old,The tree is young,0
+The tree is sturdy,The tree is fragile,0
+The tree is sturdy,The tree is fragile,0
+The tree is sturdy,The tree is fragile,0
+The tree is tall,The tree is short,0
+The tree is tall,The tree is short,0
+The tree is tall,The tree is short,0
+The tree is tall,The tree is short,0
+The waves crashed against the shore,The waves pounded against the shore,1
+The waves gently lapped against the shore,The waves softly caressed the shore,1
+The wind howled through the night,The wind blew fiercely through the night,1
+The wind is blowing,The wind is calm,0
+The wind is blowing,The wind is still,0
+The wind is blowing,The wind is still,0
+The wind is blowing,The wind is still,0
+The wind is howling,The wind is quiet,0
+The wind is howling,The wind is quiet,0
+The wind is howling,The wind is quiet,0
+The wind is strong,The wind is gentle,0
+The wind whispered secrets through the trees,The wind shared secrets among the trees,1
+The wind whispered through the trees,The wind softly spoke among the trees,1
+The wind whispered through the trees,The wind softly spoke among the trees,1
+There are fish in the lake,There are fish in the sea,0
+Today is a beautiful day,Today is a rainy day,0
+We went to the movies last night,We watched a movie at home last night,0
